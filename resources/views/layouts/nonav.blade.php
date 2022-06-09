@@ -52,7 +52,7 @@
 @yield('extra-style')
 
 <body style="background-color: #FFFFFF;">
-    <nav class="navbar sticky-top navbar-expand-lg haft-navbar pb-4">
+    <nav class="navbar  navbar-expand-lg haft-navbar pb-4">
         <div class="container-fluid">
             <a class="navbar-brand ms-md-5" href="/">
                 {{-- <img src="/docs/5.2/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24"> --}}
@@ -60,9 +60,9 @@
 
                 </div>
             </a>
-          <button class="navbar-toggler me-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          {{-- <button class="navbar-toggler me-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon">   
-                {{-- <i class="fas fa-bars" style="color:#fff; font-size:28px;"></i> --}}
+                
             </span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -80,7 +80,7 @@
                 </li>
 
               
-            </ul>
+            </ul> --}}
           </div>
         </div>
     </nav>

@@ -1,0 +1,136 @@
+.cirle-logo{
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 50% !important;
+    background-color: #7EBC89 !important;
+    
+}
+
+.login-button{
+    background-color: #7EBC89 !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    border: 1px solid #fff !important;
+    width: 120px;
+    height: 45px;
+    
+}
+.login-button:hover{
+    background-color: #fff !important;
+    color: #7EBC89 !important;
+    border: 1px solid #7EBC89 !important;
+}
+
+.cta-button{
+    background-color: #7EBC89 !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    border: 1px solid #fff !important;
+    min-width: 120px;
+    text-align: center;
+    height: 45px;
+    
+}
+.cta-button:hover{
+    background-color: #fff !important;
+    color: #7EBC89 !important;
+    border: 1px solid #7EBC89 !important;
+}   
+
+/* HOME INDEX PAGE */
+.cta-button:hover span {
+    display:none
+}
+.cta-button:hover:before {
+    content:"Save The World!";
+    font-size: 15px !important;
+    font-weight: bold !important;
+    text-align: center;
+    color: #7EBC89 !important;
+
+}
+
+.title{
+    font-size: 40px !important;
+    font-weight: bold !important;
+    color: #2D4739 !important;
+}
+
+.desc{
+    font-size: 20px !important;
+    color: #7EBC89 !important;
+    text-align: justify;
+}
+/* ============================== */
+
+/* CREDENTIALS PAGE */
+label{
+    font-size: 16px !important;
+    font-weight: bold !important;
+    color: #7EBC89 !important;
+}
+input[type="email"]{
+    margin-top: 10px;
+    border: 1px solid #7EBC89 !important;
+    border-radius: 9px !important;
+    
+    
+}
+input[type="password"]{
+    margin-top: 10px;
+    border: 1px solid #7EBC89 !important;
+    border-radius: 9px !important;
+    
+    
+}
+input[type="date"]{
+    margin-top: 10px;
+    border: 1px solid #7EBC89 !important;
+    border-radius: 9px !important;
+    
+    
+}
+input[type="text"]{
+    margin-top: 10px;
+    border: 1px solid #7EBC89 !important;
+    border-radius: 9px !important;
+    
+    
+}
+a{
+    text-decoration: none !important;
+}
+.sign-up-text{
+    font-size: 16px !important;
+    font-weight: bold !important;
+    color: #7EBC89 !important;
+    text-align: left;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+.forget-pass{
+    font-size: 16px !important;
+    font-weight: bold !important;
+    color: #7EBC89 !important;
+    text-align: right;
+    text-decoration: none;
+    cursor: pointer;
+}
+.log-btn{
+    width: 100%;
+    background-color: #7EBC89 !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    font-size: 15px !important;
+    font-weight: bold !important;  
+    border: 1px solid #fff !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+/* ============================== */
